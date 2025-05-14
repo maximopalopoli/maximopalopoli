@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**maximopalopoli/maximopalopoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I like to learn new things and put my skills to the test.
 
-Here are some ideas to get you started:
+- [🔭] I'm working at Lambdaclass and studying Software Engineering at the University of Buenos Aires.
+- [🌱] Currently, I'm learning about Distributed Systems, Ethereum, and software development in general.
+- [💼] I've developed with languages like Java, C, or Smalltalk, and I'm now developing with Python, Rust, and Go.
+- [📫] You can reach me at maximopalopoli3@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+
+![Maximo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maximopalopoli&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maximopalopoli&layout=compact&theme=radical)
