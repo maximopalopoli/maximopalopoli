@@ -9,6 +9,6 @@ Welcome to my GitHub profile! I like to learn new things and put my skills to th
 
 ## 📈 GitHub Stats
 
-![Maximo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maximopalopoli&show_icons=true&theme=radical)
+![Maximo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maximopalopoli&show_icons=true&theme=radical&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maximopalopoli&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maximopalopoli&layout=compact&theme=radical&cache_seconds=86400)
