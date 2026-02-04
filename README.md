@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile! I like to learn new things and put my skills to the test.
 
-- [🔭] I'm working at Lambdaclass and studying Software Engineering at the University of Buenos Aires.
-- [🌱] Currently, I'm learning about Distributed Systems, Ethereum, and software development in general.
-- [💼] I've developed with languages like Java, C, or Smalltalk, and I'm now developing with Python, Rust, and Go.
+- [🔭] I'm studying Software Engineering at the University of Buenos Aires.
+- [🌱] Currently, I'm learning about Distributed Systems, Databases, and software development in general.
+- [💼] I've developed with languages like Elixir, C, or Python, and I'm now developing with Go and Rust.
 - [📫] You can reach me at maximopalopoli3@gmail.com
 
 ## 📈 GitHub Stats
