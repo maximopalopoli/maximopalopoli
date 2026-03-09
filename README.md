@@ -7,8 +7,10 @@ Welcome to my GitHub profile! I like to learn new things and put my skills to th
 - [💼] I've developed with languages like Elixir, C, or Python, and I'm now developing with Go and Rust.
 - [📫] You can reach me at maximopalopoli3@gmail.com
 
-## 📈 GitHub Stats
+## 📊 GitHub Summary
 
-![Maximo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maximopalopoli&show_icons=true&theme=radical&cache_seconds=86400)
+![](https://raw.githubusercontent.com/maximopalopoli/maximopalopoli/main/profile-summary-card-output/default/0-profile-details.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maximopalopoli&layout=compact&theme=radical&cache_seconds=86400)
+![](https://raw.githubusercontent.com/maximopalopoli/maximopalopoli/main/profile-summary-card-output/default/1-repos-per-language.svg)
+
+![](https://raw.githubusercontent.com/maximopalopoli/maximopalopoli/main/profile-summary-card-output/default/2-most-commit-language.svg)
