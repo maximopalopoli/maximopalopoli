@@ -9,4 +9,6 @@ Most of my work lives in other organizations' repositories, so it doesn't show u
 - **[yetanotherco/zk_arcade](https://github.com/yetanotherco/zk_arcade)**: web product in Elixir/Phoenix, React and Solidity. EIP-712 signature authentication, server-side WebSockets and Ecto schemas.
 - **[yetanotherco/aligned_layer](https://github.com/yetanotherco/aligned_layer)**: ZK proof aggregation service in Rust. Idempotent on-chain retries, resumable pollers, PostgreSQL failover, rate limits and Prometheus/Grafana.
 
+My own projects and more detail on this work: [maximopalopoli.github.io](https://maximopalopoli.github.io/)
+
 📮 maximopalopoli3@gmail.com
